@@ -1,5 +1,5 @@
 <p align="center">
-    ![AI Code Reviewer Banner](./assests/ai-code-reviwer-banner.png)
+  <img src="./assests/ai-code-reviwer-banner.png" alt="AI Code Reviewer Banner" width="100%">
 </p>
 
 <div align="center">
