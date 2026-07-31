@@ -33,6 +33,7 @@ Instead of only detecting syntax errors, the AI provides:
 
 ## 📸 Application Preview
 
+
 <p align="center">
   <img src="./assests/ai-code-reviwer-banner.png" alt="AI Code Reviewer Banner" width="100%">
 </p>
