@@ -14,11 +14,6 @@ Analyze code, detect bugs, improve performance, identify security issues, and re
 </div>
 
 ---
-<p align="center">
-  <img src="./assests/ai-code-reviwer-banner.png" alt="AI Code Reviewer Banner" width="90%">
-</p>
-
-<div align="center">
 
 # 📌 Overview
 
@@ -35,6 +30,15 @@ Instead of only detecting syntax errors, the AI provides:
 - 🚀 Refactored Code Examples
 
 ---
+
+## 📸 Application Preview
+
+<p align="center">
+  <img src="./assests/ai-code-reviwer-banner.png" alt="AI Code Reviewer Banner" width="100%">
+</p>
+
+---
+
 
 # ✨ Features
 
