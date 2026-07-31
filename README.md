@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="./assets/ai-code-reviewer-banner.png" width="100%" alt="AI Code Reviewer Banner">
+</p>
+
 <div align="center">
 
 # 🤖 AI Code Reviewer
@@ -15,12 +19,6 @@ Analyze code, detect bugs, improve performance, identify security issues, and re
 </div>
 
 ---
-
-## 📸 Home Page
-
-![Home](./screenshots/home.png)
-
-
 
 # 📌 Overview
 
